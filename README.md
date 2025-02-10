@@ -1,4 +1,4 @@
-[codewars.com 8 kyu / No zeroes fo heroes](https://www.codewars.com/kata/570a6a46455d08ff8d001002)
+[codewars.com 8 kyu / No zeroes for heroes](https://www.codewars.com/kata/570a6a46455d08ff8d001002)
 
 Description:
 
